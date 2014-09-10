@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Provides bootstrap with cosmo theme.",
   version: "0.0.2",
-  git: "https://github.com/and-fri/meteor-bootstrap-cosmo.git"
+  git: "https://github.com/andruschka/meteor-bootstrap-cosmo.git"
 });
 
 Package.on_use(function (api) {
